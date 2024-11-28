@@ -1,6 +1,6 @@
 # WireGuard
 
-Project to learn about WireGuard.
+Project to learn about WireGuard. At each level, I iterated on the previous version adding complexity/features.
 
 ## level1
 
